@@ -5,7 +5,7 @@ import "./styles.css";
 
 function App() {
   const renderNum = () => {
-    return <div>what is goin on </div>;
+    return <div>coding on browser </div>;
   };
 
   return (
